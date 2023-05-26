@@ -1,0 +1,28 @@
+PODS:
+  - alt_sms_autofill (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - sms_autofill (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - alt_sms_autofill (from `.symlinks/plugins/alt_sms_autofill/ios`)
+  - Flutter (from `Flutter`)
+  - sms_autofill (from `.symlinks/plugins/sms_autofill/ios`)
+
+EXTERNAL SOURCES:
+  alt_sms_autofill:
+    :path: ".symlinks/plugins/alt_sms_autofill/ios"
+  Flutter:
+    :path: Flutter
+  sms_autofill:
+    :path: ".symlinks/plugins/sms_autofill/ios"
+
+SPEC CHECKSUMS:
+  alt_sms_autofill: 6c623529a8de6a2a9297358bdb7dab3d8ad693e4
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  sms_autofill: c461043483362c3f1709ee76eaae6eb570b31686
+
+PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
+
+COCOAPODS: 1.12.0
