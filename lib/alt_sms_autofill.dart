@@ -62,7 +62,7 @@ class _AltSmsAutofillScreenState extends State<AltSmsAutofillScreen> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('AltAutoFill example app'),
+          title: const Text('AutoFill Test App'),
         ),
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
